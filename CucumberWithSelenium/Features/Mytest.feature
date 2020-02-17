@@ -16,11 +16,11 @@ Examples:
 
 |username  |password  |		
 
-|User1     |password1 |		
+|User1     |password12 |		
 
-|User2     |password2 |		
+|User2     |password22 |		
 
-|User3     |password3 |
+|User3     |password32 |
 
 
 
